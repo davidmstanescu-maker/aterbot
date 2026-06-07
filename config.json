@@ -1,6 +1,6 @@
 {
 	"client": {
-		"host": "daduspeed.aternos.me",
+		"host": "daduspeed.aternos.me:28299",
 		"port": "28299",
 		"username": "pinciafkbot"
 	},
